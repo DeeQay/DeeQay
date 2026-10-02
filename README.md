@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[**LinkedIn**: linkedin.com/in/davidkedra](linkedin.com/in/davidkedra)
+[**LinkedIn**: linkedin.com/in/davidkedra](www.linkedin.com/in/davidkedra)
 
 [**GitHub**: github.com/DeeQay](github.com/DeeQay)
 

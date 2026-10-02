@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[LinkedIn: linkedin.com/in/davidkedra](linkedin.com/in/davidkedra)
+
+[GitHub: github.com/DeeQay](github.com/DeeQay)
+
 <!--
 **DeeQay/DeeQay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-[**LinkedIn**: linkedin.com/in/davidkedra](https://www.linkedin.com/in/davidkedra)
+### Connect with me
 
-[**GitHub**: github.com/DeeQay](https://github.com/DeeQay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkedra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeeQay)
 
 <!--
 **DeeQay/DeeQay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
